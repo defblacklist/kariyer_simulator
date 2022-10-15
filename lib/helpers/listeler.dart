@@ -5,6 +5,10 @@ class Gorevler{
 
 }
 
+class TestClass{
+  
+}
+
 class GorevlerListesi{
   List<Gorevler>? gorev = [
     Gorevler('Yeni hayat oluştur.', 1000),
